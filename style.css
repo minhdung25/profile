@@ -597,6 +597,7 @@ section .title::after{
     align-items: center;
     justify-content: center;
     transition: all 0.3s ease;
+    color: #e3d1b8;
 }
 .teams .carousel .card:hover .box{
     transform: scale(1.05);
