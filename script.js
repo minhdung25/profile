@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["a Freshman","learn at Software Engineering","learn at FPTU"],
+        strings: ["a Sophomore","learn at Software Engineering","learn at FPTU"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
